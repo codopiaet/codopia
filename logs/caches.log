@@ -1,0 +1,331 @@
+[INFO] at 24-03-28 04:03:04 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-03-28 04:03:04 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-03-28 05:03:09 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-03-28 05:03:09 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 used a cache of value 2 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:13 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 used a cache of value 3 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 used a cache of value 4 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:22 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 used a cache of value 5 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:24 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 used a cache of value 6 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:26 IP address ::1 the clean up POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-03-28 05:03:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:19 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 06:04:19 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 used a cache of value 2 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:28 IP address ::1 used a cache of value 3 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:28 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 used a cache of value 4 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:29 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 used a cache of value 5 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:05 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 used a cache of value 6 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:09 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 06:04:10 IP address ::1 the clean up POST HTTP/1.1 
+[INFO] at 24-04-20 01:04:09 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 01:04:09 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:28 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:28 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:34 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:34 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:37 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:44 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:32 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:32 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:35 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:54 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:54 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:56 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:36 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:36 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 used a cache of value 2 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:39 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:09 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:09 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 used a cache of value 2 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:11 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 used a cache of value 3 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 used a cache of value 4 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 used a cache of value 5 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:23 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 used a cache of value 6 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:27 IP address ::1 the clean up POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:46 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:56 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:56 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 used a cache of value 2 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:59 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 used a cache of value 3 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:04 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 used a cache of value 4 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:08 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 used a cache of value 5 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:12 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 used a cache of value 6 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:15 IP address ::1 the clean up POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:19 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:03 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:03 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 used a cache of value 2 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:07 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 used a cache of value 3 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:10 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 used a cache of value 4 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:14 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 used a cache of value 5 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:18 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 used a cache of value 6 and subjectID 1 POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:21 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:22 IP address ::1 the clean up POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:26 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:26 IP address ::1 the cache get function is called GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:33 IP address ::1 the cache get function is called POST HTTP/1.1 
+[INFO] at 24-04-20 02:04:22 IP address ::1 used a cache of value 1 and subjectID 1 GET HTTP/1.1 
+[INFO] at 24-04-20 02:04:22 IP address ::1 the cache get function is called GET HTTP/1.1 

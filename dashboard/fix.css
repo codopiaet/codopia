@@ -1,0 +1,44 @@
+body,
+html {
+    height: 100%;
+    /* Necessary to make the height of sidebar and main content fill the page */
+}
+
+.wrapper {
+    display: flex;
+    height: 100%;
+}
+
+.sidebar-g {
+    /* flex: 0 0 280px; */
+    /* Makes sidebar width fixed */
+    height: 100vh;
+    /* Full height */
+    overflow-y: auto;
+    /* Makes sidebar scrollable */
+}
+
+.main-content-g {
+    flex-grow: 1;
+    height: 100vh;
+    /* Full height */
+    overflow-y: auto;
+    /* Makes content area scrollable */
+}
+
+/* Styling for scrollbar (optional) */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

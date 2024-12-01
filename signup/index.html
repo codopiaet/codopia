@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/imgs/logo.png">
+    <link rel="stylesheet" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/sweetalert2.min.css">
+    <link rel="stylesheet" href="signup.css">
+    <title>Sign Up</title>
+
+    <style>
+        /* body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        } */
+     
+
+        #switch-cont {
+            display: flex;
+            justify-content: end;
+
+            position: relative;
+            top: 15px;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- <div id="loader-container">
+        <div class="loader"></div>
+    </div> -->
+<div class="message"></div>
+  <div class="wrapper war">
+    <div class="container main">
+        <div class="row" id="">            
+					<div class="input-box col-6">
+                   
+						<header>Create account</header>
+
+						<form method="post" id="up-form">
+							<div class="input-field">
+								<input type="text" class="input" id="full_name" required="" autocomplete="off" name="full_name" title="Full name">
+								<label for="Full Name">Full Name</label> 
+							</div> 
+
+							<div class="input-field">
+								<input type="email" class="input" id="email" required="" autocomplete="off" name="email">
+								<label for="email">Email</label> 
+							</div> 
+							
+							<div class="input-field">
+								<input type="text" class="input" id="username" required="" name="username">
+								<label for="username">Username </label>
+							</div> 
+							
+							<span id="information"></span>
+									 
+							<p style="font-size: 70%">Note: Your password must be at least 8 characters long<br>Username must have only _,letters and numbers </p>
+							
+							<div class="input-field">
+								<input type="password" class="input" id="pass" required="" autocomplete="off" name="password">
+								<label for="pass">Password</label> 
+							</div>
+							
+							<div class="input-field">
+								<input type="password" class="input" id="cpass" required="" autocomplete="off" name="cpassword">
+								<label for="cpass">Confirm Password</label> 
+							</div> 
+								
+						
+							<div class="input-field">
+								Bio (optional):
+								<textarea name="" id="textarea" cols="20" rows="10" maxlength="100" name="bio" title="bio"></textarea>
+							</div> 
+
+							<div class="input-field">
+								<input type="submit" class="submit" id="up-submit" value="Sign Up">
+							</div> 
+						</form>
+			
+						<div class="signin">
+							<span>Already have an account? <a href="/login/">Log in here</a></span>
+						</div>
+
+						<div class="signin">
+							<span><a href="/" style="font-size:larger">Home</a></span>
+						</div>
+					</div>  
+        </div>
+    </div>
+</div>
+
+<script src="/static/bootstrap.bundle.min.js"></script>
+<script src="/static/sweetalert2.js"></script>
+<script src="sign.js"></script>
+<script src="request.js"></script>
+
+
+</body>
+</html>

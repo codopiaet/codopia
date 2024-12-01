@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/signup/signup.css">
+    <link rel="shortcut icon" href="/imgs/logo.png">
+    <title>Log In</title>
+
+    <style>
+        /* body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        } */
+
+        #switch-cont {
+            display: flex;
+            justify-content: end;
+
+            position: relative;
+            top: 15px;
+        }
+        body{
+            font-family: BankGothic Md BT, arial;
+        }
+    form {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+    </style>
+</head>
+<body>
+    <div class="message"></div>
+    <!-- <div id="loader-container">
+        <div class="loader"></div>
+    </div> -->
+<form action="dashboard/dash.html">
+  <div class="wrapper war">
+    <div class="container main">
+        <div class="row" id="main-container">
+            <!-- <div class="col-md-6 right"> -->
+                <div class="input-box">
+                   
+                   <header>Log in</header>
+                   <div class="input-field">
+                        <input type="text" class="input" id="email" required="" autocomplete="off" name="username" title="Username">
+                        <label for="Full Name">Username</label> 
+                    </div> 
+
+                    <div class="input-field">
+                        <input type="password" class="input" id="pass" required="" name="password" min="8">
+                        <label for="pass">Password</label>
+                    </div> 
+
+                    <div class="input-field">
+                        <input type="submit" class="submit" value="Log In">
+                    </div> 
+
+                    
+                    <div class="signin">
+                        <span> <a href="/signup/">Create Account</a></span>
+                    </div>
+                    <div class="signin">
+                        <span> <a href="/">Home</a></span>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>
+</div>
+</form>
+
+<script src="login.js"></script>
+</body>
+</html>

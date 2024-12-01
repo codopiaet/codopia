@@ -1,0 +1,110 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("imgs/img1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+/* front view */
+
+#front-view {
+    display: grid;
+    place-items: center;
+
+    position: absolute;
+    top: 25%;
+    width: 100%;
+}
+
+#message {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    line-height: 1.25;
+}
+
+#span-style {
+    color: cyan;
+}
+
+#insert {
+    font-size: 50px;
+    font-weight: 900;
+    animation: blink 1s linear infinite;
+}
+
+@keyframes blink {
+    25% {
+        opacity: 0;
+    }
+
+    75% {
+        opacity: 1;
+    }
+}
+
+.start-btn {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    /* rgb(0, 75, 161) */
+    border: 2px solid white;
+    padding: 10px 20px;
+    margin-top: 10px;
+
+    /* THE AMAZING EFFECT */
+    background-image: linear-gradient(to left, transparent, transparent 50%, white 50%, white);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.3s ease;
+}
+
+.start-btn:hover {
+    /* THE AMAZING EFFECT */
+    color: black;
+    background-position: left bottom;
+}
+
+.start-btn:active {
+    transform: scale(0.975);
+}
+
+/* foot view */
+
+#foot-view {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
+
+.tabs {
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+}
+
+.icons:hover {
+    transform: scale(1.05);
+}
+
+.desc {
+    color: white;
+    margin-top: 5px;
+}

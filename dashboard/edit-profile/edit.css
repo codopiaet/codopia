@@ -1,0 +1,101 @@
+body,
+html {
+    height: 100%;
+    /* Necessary to make the height of sidebar and main content fill the page */
+}
+
+.wrapper {
+    display: flex;
+    height: 100%;
+}
+
+.sidebar-g {
+    /* flex: 0 0 280px; */
+    /* Makes sidebar width fixed */
+    height: 100vh;
+    /* Full height */
+    overflow-y: auto;
+    /* Makes sidebar scrollable */
+}
+
+.main-content-g {
+    flex-grow: 1;
+    height: 100vh;
+    /* Full height */
+    overflow-y: auto;
+    /* Makes content area scrollable */
+}
+
+/* Styling for scrollbar (optional) */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.logo {
+    padding: 16px;
+}
+
+.sidebar ul.nav {
+    list-style-type: none;
+    padding-left: 0;
+    /* margin-top: 20px; */
+}
+
+.sidebar .nav-link {
+    color: #262626;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #f5f5f5;
+}
+
+.sidebar .nav-link i {
+    margin-right: 10px;
+}
+
+.col-10 {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#mob-view {
+    display: flex;
+    align-items: center;
+    /* background-color: rgb(219, 219, 219); */
+
+    position: fixed;
+    bottom: 0;
+
+    width: 100%;
+    height: 75px;
+}
+
+#mv-ul {
+    display: flex;
+    justify-content: space-around;
+
+    list-style-type: none;
+    width: 100%;
+}
+
+#mv-ul a {
+    text-decoration: none;
+}
+
+/* --- --- --- --- --- */
